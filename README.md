@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anything that comes my way, it is always fun to learn.
 - 📫 How to reach me: jes.a.card@gmail.com
 
+
+Pardon the mess as I am trying to combine my different Gits and repositories in here. Most older project are designed to run on Linux.
 <!---
 j-cardenas/j-cardenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
